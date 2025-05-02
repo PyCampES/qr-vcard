@@ -7,7 +7,6 @@ requires-python = ">=3.13"
 dependencies = [
     "pillow>=11.2.1",
     "qrcode>=8.2",
-    "svgwrite>=1.4.3",
 ]
 
 [dependency-groups]
